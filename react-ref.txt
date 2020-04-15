@@ -1,0 +1,15 @@
+
+1. React is a JavaScript library for building user interfaces, not a framework
+
+2. React is declarative, description of user interface, not directly how to do it
+
+3. HTML is declarative for static content, React is declarative for dynamic data
+
+4. React basics
+	1) Components, like functions
+	2) Reactive updates
+	3) Virtual views in memory
+
+5. React components
+	1) Function component
+	2) Class component 
